@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TreasureSnap</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="welcome_message">Welcome, adventurer! Are you ready to begin your treasure hunt?</string>
+    <string name="treasure_snap">Treasure Snap</string>
+
+    <string name="location_not_granted">Location permission not granted</string>
+    <string name="location_unavailable">Location Unavailable</string>
+
+
+</resources>
